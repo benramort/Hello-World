@@ -10,7 +10,7 @@ public class HelloWorld : MonoBehaviour
     void Start()
     {
         Debug.Log("Hello world");
-        enemy = new Enemy("Enemigo");
+        enemy = new Enemy("Enemigooo");
         Player player = new Player("Jugador");
     }
 
