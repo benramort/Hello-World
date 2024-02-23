@@ -15,4 +15,9 @@ public class Player : Character
     public Player(string s) : base(s) //Esto es super() ?
     {
     }
+
+    public override void TakeDamage()
+    {
+        
+    }
 }

@@ -2,10 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Character
+public abstract class Character
 {
     public string name;
-    private int healthPoints = 1;
+    private int healthPoints = 100;
     //int vida { get; set; }
     //bool alive { get; set; }
 
@@ -18,6 +18,11 @@ public class Character
     ~Character()
     {
         Debug.Log(name + " ha muerto");
+    }
+
+    public virtual void TakeDamage()
+    {
+        healthPoints--;
     }
 
     public int HealthPoints { get => healthPoints; set => healthPoints = value; }
