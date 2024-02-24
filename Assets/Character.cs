@@ -5,7 +5,7 @@ using UnityEngine;
 public abstract class Character
 {
     public string name;
-    private int healthPoints = 100;
+    private int healthPoints  = 100;
     //int vida { get; set; }
     //bool alive { get; set; }
 

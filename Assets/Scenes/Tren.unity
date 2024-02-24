@@ -444,7 +444,7 @@ GameObject:
   - component: {fileID: 601962091}
   - component: {fileID: 601962090}
   m_Layer: 0
-  m_Name: "RudeaPeque\xF1a"
+  m_Name: SmallWeel1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -551,7 +551,7 @@ GameObject:
   - component: {fileID: 903301330}
   - component: {fileID: 903301329}
   m_Layer: 0
-  m_Name: RuedaMedia1
+  m_Name: MediumWeel1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -856,7 +856,7 @@ GameObject:
   - component: {fileID: 1444287692}
   - component: {fileID: 1444287691}
   m_Layer: 0
-  m_Name: RuedaMedia2
+  m_Name: MediumWeel2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -963,7 +963,7 @@ GameObject:
   - component: {fileID: 1587135937}
   - component: {fileID: 1587135936}
   m_Layer: 0
-  m_Name: RuedaGrande
+  m_Name: BigWeel1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1070,7 +1070,7 @@ GameObject:
   - component: {fileID: 1637200882}
   - component: {fileID: 1637200881}
   m_Layer: 0
-  m_Name: "RudeaPeque\xF1a2"
+  m_Name: SmallWeel2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1387,7 +1387,7 @@ GameObject:
   - component: {fileID: 1864831568}
   - component: {fileID: 1864831567}
   m_Layer: 0
-  m_Name: RuedaMedia3
+  m_Name: MediumWeel3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1537,7 +1537,7 @@ GameObject:
   - component: {fileID: 2120318077}
   - component: {fileID: 2120318076}
   m_Layer: 0
-  m_Name: RuedaGrande2
+  m_Name: BigWeel2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1644,7 +1644,7 @@ GameObject:
   - component: {fileID: 2130940974}
   - component: {fileID: 2130940973}
   m_Layer: 0
-  m_Name: RuedaMedia4
+  m_Name: MediumWeel4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
