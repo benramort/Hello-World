@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Colorable
+  - Rueda
+  - Cuerpo
+  - Chimenea
   layers:
   - Default
   - TransparentFX
